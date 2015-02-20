@@ -1,9 +1,9 @@
 # si_installer
 
-SysInternals™ is a trademark of Mark Russinovich and Bryce Cogswell
+SysInternalsâ„¢ is a trademark of Mark Russinovich and Bryce Cogswell
 (http://sysinternals.com)
 
-si_installer lets you download and install most of the freeware applications
+si_installer downloads and installs the freeware applications
 available at http://sysinternals.com.
 
 si_installer looks in the directory where si_installer.exe is for
