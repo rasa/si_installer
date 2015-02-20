@@ -1,16 +1,16 @@
-# 1.19 (unreleased)
+# 1.19 (19-Feb-2015)
 
   * Added Sysmon - monitors and reports key system activity via the Windows event log
 
-# 1.18 (02 Apr 13)
+# 1.18 (02-Apr-2013)
 
   * Added RU - List registry usage
 
-# 1.17 (25 Dec 12)
+# 1.17 (25-Dec-2012)
 
   * Added PsPing - Measure network performance
 
-# 1.16 (07 Apr 12)
+# 1.16 (07-Apr-2012)
 
   * Added FindLinks - List hard and soft links for specified files
   * Removed ProcFeatures (replaced by CoreInfo)
@@ -27,18 +27,18 @@
   * Updated copyright to 2012
   * Updated license agreement
 
-# 1.15 (21 Feb 11)
+# 1.15 (21-Feb-2011)
 
   * Added Sysinternals Suite
   * Updated "Top 10" list
 
-# 1.14 (11 Jan 11)
+# 1.14 (11-Jan-2011)
 
   * Added RAMMap - Graphical display of memory usage
   * Upgraded NSIS to 2.39
   * Using special logging build (output to $INSTDIR/install.log)
 
-# 1.13 (31 Dec 09)
+# 1.13 (31-Dec-2009)
 
   * Added Disk2vhd - Create VHD files from online disk
   * Added ProcDump - Monitor CPU spikes & generate crash dumps
@@ -46,20 +46,20 @@
   * Removed FileMon
   * Removed RegMon
 
-# 1.12 (23 Feb 09)
+# 1.12 (23-Feb-2009)
 
   * Added VMMap - View Virtual and Physical Memory
   * Changed default selection for "Typical", to "Top 10"
 
-# 1.11 (27 Nov 08)
+# 1.11 (27-Nov-2008)
 
   * Added Coreinfo - Shows mapping between logical processors & physical processors
 
-# 1.10 (26 Aug 08)
+# 1.10 (26-Aug-2008)
 
   * Added Desktops - Create up to four virtual desktops
 
-# 1.9 (01 Mar 08)
+# 1.9 (01-Mar-2008)
 
   * Added DiskExt - List volume disk-mappings
   * Added EFSDump - List encrypted file (EFS) information
@@ -70,18 +70,18 @@
   * Renamed RegDellNull to RegDelNull
   * Removed /accepteula startup switch for programs that didn't support it
 
-# 1.8 (29 Dec 07)
+# 1.8 (29-Dec-2007)
 
   * Added AdInsight
 
-# 1.7 (08 Sep 07)
+# 1.7 (08-Sep-2007)
 
   * Added AdExplorer
   * Added /accepteula startup switch
   * Added HKCU\Software\Sysinternals\App\EulaAccepted registry entries
   * Updated license agreement
 
-# 1.6 (22 May 07)
+# 1.6 (22-May-2007)
 
   * Renamed DebugViewNT to DebugView
   * Renamed FileMonNT to FileMon
@@ -96,28 +96,28 @@
   * Removed http://download.sysinternals.com/Files/TdiMonNt.zip (404)
   * Removed http://download.sysinternals.com/Files/Tokenmon.zip (404)
 
-# 1.5 (05 Apr 07)
+# 1.5 (05-Apr-2007)
 
   * Fixed user defined start menu folder bug
   * Upgraded NSIS to 2.24 (2.25 appears buggy)
 
-# 1.4 (08 Nov 06)
+# 1.4 (08-Nov-2006)
 
   * Added ProcessMonitor
   * Changed URLs from www.sysinternals.com to download.sysinternals.com
 
-# 1.3 (19 Aug 06)
+# 1.3 (19-Aug-2006)
 
   * Upgraded NSIS to 2.19
 
-# 1.2 (12 May 06)
+# 1.2 (12-May-2006)
 
   * Download errors are retried 5 times before reporting failure
 
-# 1.1 (18 Apr 06)
+# 1.1 (18-Apr-2006)
 
   * Added AccessChk
 
-# 1.0 (14 Apr 06)
+# 1.0 (14-Apr-2006)
 
   * Initial release
